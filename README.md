@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
- <b> I don't have all the time in the world, or constant access to computers,
+ <b>I don't have all the time in the world, or constant access to computers,
   but this is my passion</b>
 </p>
 
