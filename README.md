@@ -22,6 +22,11 @@
 </p>
 
 <p align="center">
+  I don't have all the time in the world, or constant access to computers,
+  but this is my **passion**
+</p>
+
+<p align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=thebadlorax&show_icons=true&theme=dark"
