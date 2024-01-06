@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  fluent in:
+  Fluent in:
 </p>
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=green">
