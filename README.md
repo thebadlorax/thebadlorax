@@ -11,6 +11,7 @@
 </p>
 <p align="center">
   <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=green"></a>
+  <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=green"></a>
 </p>
 
 <p align="center">
@@ -22,8 +23,8 @@
 </p>
 
 <p align="center">
-  I don't have all the time in the world, or constant access to computers,
-  but this is my **passion**
+ <b> I don't have all the time in the world, or constant access to computers,
+  but this is my passion</b>
 </p>
 
 <p align="center">
