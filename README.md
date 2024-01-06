@@ -6,8 +6,17 @@
   Fluent in:
 </p>
 <p align="center">
-  <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=green"> </a>
+  <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=green"> </a> <!-- SHIELDS ARE THE BEST USE THEM -->
 </p>
+
+<p align="center">
+  Learning:
+</p>
+<p align="center">
+  <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=HTML5&logoColor=green"> </a>
+  <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-grey?style=for-the-badge&logo=C%2B%2B&logoColor=green"> </a>
+</p>
+
 <p align="center">
   <picture>
     <source
