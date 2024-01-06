@@ -28,6 +28,11 @@
 </p>
 
 <p align="center">
+ I also love pen-testing, or just causing havoc with my friends
+  on the school computers/network
+</p>
+
+<p align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=thebadlorax&show_icons=true&theme=dark"
@@ -39,4 +44,8 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=thebadlorax&show_icons=true" />
   </picture>
+</p>
+
+<p align="center">
+ <b>ps. (i think the IT guys are out for my blood😓)</b>
 </p>
