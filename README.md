@@ -18,7 +18,7 @@
 </p>
 <p align="center">
   <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=HTML5&logoColor=green"></a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-grey?style=for-the-badge&logo=C%2B%2B&logoColor=green">
+  <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-grey?style=for-the-badge&logo=C%2B%2B&logoColor=green"></a>
 </p>
 
 <p align="center">
