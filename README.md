@@ -3,7 +3,7 @@
 <!-- 2. TYSM TO https://github.com/DenverCoder1/readme-typing-svg FOR THE REALTIME TYPING -->
 
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=300&size=30&duration=4000&pause=1000&color=E122F7&multiline=true&repeat=false&random=false&width=480&height=80&lines=Thebadlorax" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=300&size=30&duration=4000&pause=1000&color=E122F7&multiline=true&repeat=false&random=false&width=480&height=80&lines=Thebadlorax's+fire+profile+🔥" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
