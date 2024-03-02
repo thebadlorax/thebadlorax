@@ -53,5 +53,7 @@
 </p>
 
 <p align="center">
+ <a href="https://thebadlorax.carrd.co/">My Portfolio</a>
+  <br>
  <b>ps. (i think the IT guys are out for my blood😓)</b>
 </p>
