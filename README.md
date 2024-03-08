@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
- <font size="+2">Part Of Project <b>Neonexus</b></font>
+ <font size="+8">Part Of Project <b>Neonexus</b></font>
 </p>
 
 <p align="center">
