@@ -24,9 +24,9 @@
   <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-grey?style=for-the-badge&logo=C%2B%2B&logoColor=green"></a>
 </p>
 
-<p align="center">
- <font size="+8">Part Of Project <b>Neonexus</b></font>
-</p>
+<!-- <p align="center"> -->
+ <!-- <font size="+8">Part Of <b>UZBRPG</b></font> -->
+<!-- </p> -->
 
 <p align="center">
  <b>I don't have all the time in the world, or constant access to computers,
