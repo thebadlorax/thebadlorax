@@ -10,19 +10,20 @@
   Fluent in:
 </p>
 <p align="center">
-  <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=green"></a>
-  <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=green"></a>
-  <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=Oracle&logoColor=green"></a>
-  <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=HTML5&logoColor=green"></a>
-  <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3&logoColor=green"></a>
-  <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/Bukkit/Minestom-grey?style=for-the-badge&logo=minetest&logoColor=green"></a>
+  <a href="https://github.com/thebadlorax"><img alt="Static Badge" src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=green"></a>
+  <a href="https://github.com/thebadlorax"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=green"></a>
+  <a href="https://github.com/thebadlorax"><img alt="Static Badge" src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=Oracle&logoColor=green"></a>
+  <a href="https://github.com/thebadlorax"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=HTML5&logoColor=green"></a>
+  <a href="https://github.com/thebadlorax"><img alt="Static Badge" src="https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3&logoColor=green"></a>
+  <a href="https://github.com/thebadlorax"><img alt="Static Badge" src="https://img.shields.io/badge/Bukkit/Minestom-grey?style=for-the-badge&logo=minetest&logoColor=green"></a>
 </p>
 
 <p align="center">
   Learning:
 </p>
 <p align="center">
-  <a href="https://shields.io/"><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-grey?style=for-the-badge&logo=C%2B%2B&logoColor=green"></a>
+  <a href="https://github.com/thebadlorax"><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-grey?style=for-the-badge&logo=C%2B%2B&logoColor=green"></a>
+  <a href="https://github.com/thebadlorax"><img alt="Static Badge" src="https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=Rust&logoColor=green"></a>
 </p>
 
 <!-- <p align="center"> -->
