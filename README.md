@@ -25,18 +25,16 @@
   <a href="https://github.com/thebadlorax"><img alt="Static Badge" src="https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=Rust&logoColor=green"></a>
 </p>
 
-<!-- <p align="center"> -->
- <!-- <font size="+8">Part Of <b>UZBRPG</b></font> -->
-<!-- </p> -->
-
 <p align="center">
- <b>I don't have all the time in the world, or constant access to computers,
-  but this is my passion</b>
+ Part Of <b>UZBRPG</b>
+</p>
+
+<p align="center" style="color:Tomato;">
+ <b>I am a professional slacker</b>
 </p>
 
 <p align="center">
- I also love pen-testing, or just causing havoc with my friends
-  on the school computers/network
+ I also love pen-testing, or just causing havoc on networks >:)
 </p>
 
 <p align="center">
@@ -55,6 +53,5 @@
 
 <p align="center">
  <a href="https://thebadlorax.carrd.co/">My Portfolio</a>
-  <br>
- <b>ps. (i think the IT guys are out for my blood😓)</b>
+  <be>
 </p>
